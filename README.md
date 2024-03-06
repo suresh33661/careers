@@ -1,11 +1,11 @@
 # Automated website url open with Python
 
-## This Python script automate the process of opening website using various libraries such as pandas, requests, BeautifulSoup, Webbrowser, and time.
+This Python script automate the process of opening website using various libraries such as pandas, requests, BeautifulSoup, Webbrowser, and time.
 
 
 # Installation
 
-## Ensure you have Python installed on your system. You can download it from the official [Python website.](https:/python.org)
+Ensure you have Python installed on your system. You can download it from the official [Python website.](https:/python.org)
 
 ## Install the required Python libraries using pip:
 
@@ -14,7 +14,7 @@
 
 ```
 # Usage
-## Download the Data
+Import downloded libraries
 ```Python
 
 import pandas as pd
@@ -42,4 +42,12 @@ for index, row in df.iterrows():
         pass
 
 ```
-## The theme of this project is using automated script to open website.
+# Customization 
+You can customize the list of websites to open by modifying the Python script. Simply update the URLs in the websites list variable.
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+# Acknowledgements
+This project was inspired by the need to automate the process of opening multiple websites for applying various jobs in career sites.
+
